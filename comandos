@@ -1,0 +1,4 @@
+$ git branch funcionalidade2    <<cria branch>>
+$ git checkout funcionalidade2  <<checkout branch>>
+$ git checkout -b funcionalidade2 <<cria e checkout branch>>
+$ git branch <<lista branchs>>
